@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\bookingbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\bookingbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanagerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\managerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\bookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\bookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\managerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\migrations\\20240603170119_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:migrations\\20240603170119_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanagerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\managergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\managertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanagertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\data\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:data\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\managerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\yearscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\yearscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\manageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\manageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\manageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\manageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanagergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\manager\\imanagerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\bookingbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\bookingbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\yearentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\yearentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\typeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\typeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\entities\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\projecty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:projecty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\users\\vadim\\desktop\\projecty-main\\projecty\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 471,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingBook.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\BookingBook.cs",
+              "RelativeDocumentMoniker": "Models\\BookingBook.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\BookingBook.cs",
+              "RelativeToolTip": "Models\\BookingBook.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerBookingBook.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerBookingBook.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerBookingBook.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerBookingBook.cs",
+              "RelativeToolTip": "Manager\\ManagerBookingBook.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAuwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerAuthor.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerAuthor.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerAuthor.cs",
+              "RelativeToolTip": "Manager\\ManagerAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManagerBookingBook.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerBookingBook.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerBookingBook.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerBookingBook.cs",
+              "RelativeToolTip": "Manager\\IManagerBookingBook.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\BookingBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingBooksController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\BookingBooksController.cs",
+              "RelativeToolTip": "Controllers\\BookingBooksController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAA1wE4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Type.cs",
+              "RelativeDocumentMoniker": "Models\\Type.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Type.cs",
+              "RelativeToolTip": "Models\\Type.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Year.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Year.cs",
+              "RelativeDocumentMoniker": "Models\\Year.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Year.cs",
+              "RelativeToolTip": "Models\\Year.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypesController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\TypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TypesController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\TypesController.cs",
+              "RelativeToolTip": "Controllers\\TypesController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwE4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwE0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240603170119_Base.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Migrations\\20240603170119_Base.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240603170119_Base.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Migrations\\20240603170119_Base.cs",
+              "RelativeToolTip": "Migrations\\20240603170119_Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IManagerAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerAuthor.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerAuthor.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerAuthor.cs",
+              "RelativeToolTip": "Manager\\IManagerAuthor.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IManagerType.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerType.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerType.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerType.cs",
+              "RelativeToolTip": "Manager\\IManagerType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerType.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerType.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerType.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerType.cs",
+              "RelativeToolTip": "Manager\\ManagerType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManagerGenre.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerGenre.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerGenre.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerGenre.cs",
+              "RelativeToolTip": "Manager\\ManagerGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookType.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Data\\BookType.cs",
+              "RelativeDocumentMoniker": "Data\\BookType.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Data\\BookType.cs",
+              "RelativeToolTip": "Data\\BookType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IManagerYear.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerYear.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerYear.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerYear.cs",
+              "RelativeToolTip": "Manager\\IManagerYear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerYear.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerYear.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerYear.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerYear.cs",
+              "RelativeToolTip": "Manager\\ManagerYear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "YearsController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\YearsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\YearsController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\YearsController.cs",
+              "RelativeToolTip": "Controllers\\YearsController.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAN4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T20:26:57.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManagerBook.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerBook.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerBook.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerBook.cs",
+              "RelativeToolTip": "Manager\\ManagerBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManagerUser.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerUser.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerUser.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\ManagerUser.cs",
+              "RelativeToolTip": "Manager\\ManagerUser.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IManagerUser.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerUser.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerUser.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerUser.cs",
+              "RelativeToolTip": "Manager\\IManagerUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwE0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IManagerGenre.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerGenre.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerGenre.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerGenre.cs",
+              "RelativeToolTip": "Manager\\IManagerGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IManagerBook.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerBook.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerBook.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Manager\\IManagerBook.cs",
+              "RelativeToolTip": "Manager\\IManagerBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "Entities\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T20:26:57.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingBookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\BookingBookEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BookingBookEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\BookingBookEntity.cs",
+              "RelativeToolTip": "Entities\\BookingBookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\AuthorEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\AuthorEntity.cs",
+              "RelativeToolTip": "Entities\\AuthorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "YearEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\YearEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\YearEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\YearEntity.cs",
+              "RelativeToolTip": "Entities\\YearEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TypeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\TypeEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\TypeEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\TypeEntity.cs",
+              "RelativeToolTip": "Entities\\TypeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GenreEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\GenreEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\GenreEntity.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\Entities\\GenreEntity.cs",
+              "RelativeToolTip": "Entities\\GenreEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:26:57.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "projectY.csproj",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\projectY.csproj",
+              "RelativeDocumentMoniker": "projectY.csproj",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\projectY.csproj",
+              "RelativeToolTip": "projectY.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T20:26:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\projectY-main\\projectY\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T20:26:57.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
